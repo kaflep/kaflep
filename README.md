@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pratik a passionate software developer based in Chicago, IL</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaflep&label=Profile%20views&color=0e75b6&style=flat" alt="kaflep" /> </p>
+<h1 align="center">Hi 👋, I'm Pratik kafle</h1>
+<h3 align="center">A passionate software developer based in Chicago, IL</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaflep" alt="kaflep" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaflep&label=Profile%20views&color=0e75b6&style=flat" alt="kaflep" /> </p>
 
 - 🌱 I’m currently learning **react, JavaScript**
 
