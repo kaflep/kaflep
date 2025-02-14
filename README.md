@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react, JavaScript**
 
-- 📫 feel free to reach out an email at **pratikcodedive@gmail.com**
+- 📫 feel free to reach out an email at **pratik6879@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
